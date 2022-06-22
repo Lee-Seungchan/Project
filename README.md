@@ -1,11 +1,6 @@
 # Shopping
 ![main](https://user-images.githubusercontent.com/103403612/174943640-569ff1e8-a23e-4ddf-8bc5-72f042ee93eb.jpg)
-<br/>
-#
-#
-#
-#
-#
+<br/><br/><br/><br/>
 
 # 프로젝트 소개
 #
