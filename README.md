@@ -13,16 +13,20 @@
 
 - ##### [shopping.zip 다운로드](https://github.com/Lee-Seungchan/Project/blob/master/shopping.zip)
 
-
 # 기능 구현
-- ##### 1. 아이디 찾기/비밀번호 찾기 기능 구현
+
+- ##### 1. 아이디 찾기/비밀번호 찾기 기능 구현</summary>
     ![image](https://user-images.githubusercontent.com/103403612/174948406-2163025d-6622-4caf-841a-29ae913a7e97.png)  
     ![image](https://user-images.githubusercontent.com/103403612/174948678-f639ac2f-5f79-421d-a8c8-002b35f5c9ee.png)
+     
 - ##### 2. 나의 정보 > 프로필 사진 수정 기능 구현  
     ![image](https://user-images.githubusercontent.com/103403612/174954948-27ce62a7-a9b7-454f-aa78-e884a9478dcf.png)
     ![image](https://user-images.githubusercontent.com/103403612/174954983-6368ef70-e266-455e-9879-7d842078a6b6.png)
 - ##### 3. 관리자 페이지 > 상품조회 페이지 추가  
+    ![image](https://user-images.githubusercontent.com/103403612/174980721-e3bd84ee-4b0c-4a20-9153-9425bcab5183.png)
 - ##### ~~4. 상품 상세 페이지 > review 기능 구현~~  
+    ![image](https://user-images.githubusercontent.com/103403612/174982095-04381c26-7817-4607-81ed-7bf5a015ecd5.png)
+    ![image](https://user-images.githubusercontent.com/103403612/174982001-430359d6-1127-479e-804d-b39f216d402d.png)
 - ##### ~~5. Notice 기능 구현/페이지 추가~~  
 
 
