@@ -9,7 +9,7 @@
      - [x] 2. 나의 정보 > 프로필 사진 수정 기능 구현  
      - [x] 3. 관리자 페이지 > 상품조회 페이지 추가  
      - [ ] 4. 상품 상세 페이지 > review 기능 구현  
-     - [ ] 5. Notice 기능 구현/페이지 추가  
+     - [x] 5. Notice 기능 구현/페이지 추가  
 
 - ##### [shopping.zip 다운로드](https://github.com/Lee-Seungchan/Project/blob/master/shopping.zip)
 
@@ -40,7 +40,10 @@
  
  <details><summary>5. Notice 기능 구현/페이지 추가</summary></summary>
  <div markdown="1">
-    구현실패
+    - 공지 list 페이지
+    <img src="https://user-images.githubusercontent.com/103403612/175222578-c5f5a2cc-8def-4f9d-9c4b-320f0dd95fd2.png">
+    - 공지 read 페이지
+    <img src="https://user-images.githubusercontent.com/103403612/175222778-fab35908-f69c-48a7-ac6d-d2908c5ae073.png">
  </div></details>
 
 # 기술 스택
