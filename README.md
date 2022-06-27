@@ -11,7 +11,7 @@
      - [ ] 4. 상품 상세 페이지 > review 기능 구현  
      - [x] 5. Notice 기능 구현/페이지 추가  
 
-- ##### [shopping.zip 다운로드](https://github.com/Lee-Seungchan/Project/blob/master/shopping.zip)
+- ##### [shopping.zip 다운로드](https://github.com/Lee-Seungchan/Project/blob/master/shopping_%EC%9D%B4%EC%8A%B9%EC%B0%AC%20%EC%A0%9C%EC%B6%9C.zip)
 
 # 기능 구현
 
